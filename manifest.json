@@ -1,0 +1,9 @@
+{
+  "name": "BeeWell Architect",
+  "short_name": "BeeWell",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFBF2",
+  "theme_color": "#D97706",
+  "icons": []
+}
